@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning SpringBoot basically backend developement
 - 💞️ I’m looking to collaborate on some java SpringBoot projects
-- 📫 How to reach me linkedIn / suruchigupta555@gmail.com
+- 📫 How to reach me <a href="www.linkedin.com/in/suruchi-gupta">linkedIn</a> / suruchigupta555@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: The first computer did not use electricity!
 - 🖋️ My Blog: https://medium.com/@suruchigupta555
