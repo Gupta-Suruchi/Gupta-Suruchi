@@ -10,6 +10,7 @@
 - 📫 How to reach me linkedIn / suruchigupta555@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: The first computer did not use electricity!
+- 🖋️ My Blog: https://medium.com/@suruchigupta555
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
